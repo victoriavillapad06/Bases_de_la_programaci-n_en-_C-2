@@ -6,6 +6,7 @@
 
 #include <bucles2.h>
 
+#include "ej1/variables.h"
 #include "ej3/bucles.h"
 #include "ej4/arrays.h"
 
@@ -13,5 +14,6 @@ int main() {
     bucles();
    arrays();
     bucles2();
+    variables();
     return 0;
 }

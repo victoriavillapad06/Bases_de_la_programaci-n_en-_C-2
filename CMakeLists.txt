@@ -13,4 +13,6 @@ add_executable(Bases_de_la_programaci_n_en__C_2
     ej4/arrays.h
         main.cpp
         ej3/bucles2.cpp
+        ej1/variables.h
+        ej1/variables.cpp
 )
