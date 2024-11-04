@@ -17,3 +17,6 @@ Punteros de variables: Crea un programa que declare punteros a variables y los u
 Referencias: Crea un programa que declare y utilice referencias. Constantes
 
 Constantes simbólicas: Declara y utiliza constantes simbólicas en un programa. El tipo void: Muestra cómo se puede utilizar el tipo void en C++. Los alias de tipo: typedef: Declara y utiliza alias de tipo en un programa. Constantes y enumeraciones: Declara y utiliza constantes y enumeraciones en un programa.
+Fuentes
+chatgpt 
+código proporcionado por el enunciado.
