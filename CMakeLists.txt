@@ -17,4 +17,8 @@ add_executable(Bases_de_la_programaci_n_en__C_2
         ej1/variables.cpp
         ej2/prueba.h
         ej2/prueba.cpp
+        ej3/bucles3.cpp
+        ej3/bucles3.h
+        ej3/bucles4.h
+        ej3/bucles4.cpp
 )
